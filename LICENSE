@@ -1,42 +1,21 @@
-# Quantum Theme License
-
-_Based on the MIT License, with Additional Restrictions_
+MIT License
 
 Copyright (c) 2025 Caleb Ephrem
 
-Permission is hereby granted, free of charge, to any person obtaining a copy  
-of this theme and associated documentation files (the “Theme”), to use, copy,  
-modify, merge, publish, and distribute the Theme for personal, educational,  
-or commercial purposes, **subject to the following conditions**:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-### Restrictions
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-1. You **may not sell** copies of the Theme, either individually or as part of a collection, without prior written permission from the copyright holder.
-
-2. You **may not publish** a clone or modified version of the Theme as a new extension on the Visual Studio Code Marketplace or similar extension platforms.
-
-3. You **may not alter or remove this license file**, or claim authorship or original design of this Theme.
-
-### Permitted Uses
-
-You are welcome to:
-
-- Modify the Theme for **personal**, **team**, or **commercial use** (as part of your own projects or products)
-- Fork this repository and maintain a private or public version for internal use
-- Share the Theme with others, as long as it’s **not sold** or published as a new extension
-- Use the Theme in open-source or proprietary projects, provided attribution and license terms are respected
-
-These permissions are granted to encourage creative use and collaboration,  
-while protecting the original identity and distribution of the Theme.
-
----
-
-The above copyright notice and this permission notice shall be included in  
-all copies or substantial portions of the Theme.
-
-THE THEME IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
-AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN  
-ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION  
-WITH THE THEME OR THE USE OR OTHER DEALINGS IN THE THEME.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

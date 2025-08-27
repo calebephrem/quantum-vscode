@@ -228,12 +228,7 @@ Want to make Quantum look even better? These are some hand-picked tweaks to elev
 
 ### 📄 License
 
-Quantum theme uses a modified MIT license with the following additional restrictions:
-
-- No selling
-- No removing the license
-
-See the full [LICENSE](./LICENSE) for details.
+Quantum theme is licensed under the MIT license.
 
 ### 🚀 Final Notes
 
@@ -247,4 +242,4 @@ See the full [LICENSE](./LICENSE) for details.
 
 Thanks a ton for the support 😁
 
-### Happy coding! 😎
+#### Happy coding! 😎
