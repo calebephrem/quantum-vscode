@@ -1,5 +1,11 @@
 # Change Log
 
+## `v2.0.1`
+
+### 🚀 Enhanced
+
+- Changed statusbar color
+
 ## `v2.0.0`
 
 ### ✨ Introduced
@@ -27,7 +33,7 @@
   - Additional links
   - Add license section
 
-- Update LICENSE
+- Updated LICENSE
 
   - Show restrictions and permitted uses
 
