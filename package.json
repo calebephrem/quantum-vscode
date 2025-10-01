@@ -3,7 +3,7 @@
   "displayName": "Quantum Theme",
   "description": "✨ Beautify your workspace with the best combos of blue, lime, yellow, purple and cyan accents!",
   "icon": "assets/icon.png",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "publisher": "CalebEphrem",
   "author": {
     "name": "Caleb Ephrem",
@@ -15,10 +15,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/calebephrem/quantum"
+    "url": "https://github.com/calebephrem/quantum-vscode"
   },
   "bugs": {
-    "url": "https://github.com/calebephrem/quantum/issues",
+    "url": "https://github.com/calebephrem/quantum-vscode/issues",
     "email": "quantumpandaprog@gmail.com"
   },
   "categories": [

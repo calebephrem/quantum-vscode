@@ -1,7 +1,7 @@
 <br />
 <div align="center">
 
-  <img src="https://github.com/calebephrem/quantum/blob/main/assets/icon.png?raw=true" alt="Quantum Theme" width="200" height="200" />
+  <img src="https://github.com/calebephrem/quantum-vscode/blob/main/assets/icon.png?raw=true" alt="Quantum Theme" width="200" height="200" />
 
   <p align="center" style="margin-top: 12px;">
     <strong><small>SHINE DIVINE, IN EVERY LINE</small></strong>
@@ -13,43 +13,43 @@
   <tr>
     <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
       <h4>Default</h4>
-      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum.png?raw=true" /></a>
+      <a href="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum.png?raw=true"><img src="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum.png?raw=true" /></a>
     </td>
     <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
       <h4>Bordered</h4>
-      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-bordered.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-bordered.png?raw=true" /></a>
+      <a href="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-bordered.png?raw=true"><img src="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-bordered.png?raw=true" /></a>
     </td>
     <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
       <h4>Non-Italicized</h4>
-      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-non-italicized.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-non-italicized.png?raw=true" /></a>
+      <a href="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-non-italicized.png?raw=true"><img src="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-non-italicized.png?raw=true" /></a>
     </td>
   </tr>
   <tr>
     <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
       <h4>Dark</h4>
-      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark.png?raw=true" /></a>
+      <a href="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-dark.png?raw=true"><img src="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-dark.png?raw=true" /></a>
     </td>
     <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
       <h4>Dark Bordered</h4>
-      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark-bordered.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark-bordered.png?raw=true" /></a>
+      <a href="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-dark-bordered.png?raw=true"><img src="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-dark-bordered.png?raw=true" /></a>
     </td>
     <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
       <h4>Dark Non-Italicized</h4>
-      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark-non-italicized.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-dark-non-italicized.png?raw=true" /></a>
+      <a href="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-dark-non-italicized.png?raw=true"><img src="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-dark-non-italicized.png?raw=true" /></a>
     </td>
   </tr>
   <tr>
     <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
       <h4>Mirage</h4>
-      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-mirage.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-mirage.png?raw=true" /></a>
+      <a href="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-mirage.png?raw=true"><img src="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-mirage.png?raw=true" /></a>
     </td>
     <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
       <h4>Mirage Bordered</h4>
-      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-mirage-bordered.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-mirage-bordered.png?raw=true" /></a>
+      <a href="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-mirage-bordered.png?raw=true"><img src="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-mirage-bordered.png?raw=true" /></a>
     </td>
     <td style="padding: 0; border: 0; vertical-align: top; min-width: 400px">
       <h4>Mirage Non-Italicized</h4>
-      <a href="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-mirage-non-italicized.png?raw=true"><img src="https://github.com/calebephrem/quantum/blob/main/assets/themes/quantum-mirage-non-italicized.png?raw=true" /></a>
+      <a href="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-mirage-non-italicized.png?raw=true"><img src="https://github.com/calebephrem/quantum-vscode/blob/main/assets/themes/quantum-mirage-non-italicized.png?raw=true" /></a>
     </td>
   </tr>
 </table>
@@ -128,7 +128,7 @@ Whether you're coding in clarity, shadow, or shimmer—there’s a Quantum for y
 5. Go under `Preferences: Color Theme`
 6. Search for **Quantum**
 7. Then click on **Quantum** (or other variants of it)
-8. Give the [repo](https://github.com/calebephrem/quantum) a ⭐ star
+8. Give the [repo](https://github.com/calebephrem/quantum-vscode) a ⭐ star
 
 🔥 Voilà! You have the Quantum theme activated! ⚡
 
@@ -204,25 +204,25 @@ Want to make Quantum look even better? These are some hand-picked tweaks to elev
 
 ### CSS + SCSS
 
-![css+scss](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/css-scss.png?raw=true)
+![css+scss](https://github.com/calebephrem/quantum-vscode/blob/main/assets/screenshots/css-scss.png?raw=true)
 
 ### Nodejs + mongodb
 
-![node+mongo](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/node-mongo.png?raw=true)
+![node+mongo](https://github.com/calebephrem/quantum-vscode/blob/main/assets/screenshots/node-mongo.png?raw=true)
 
 ### Python + React
 
-![python+react](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/python-react.png?raw=true)
+![python+react](https://github.com/calebephrem/quantum-vscode/blob/main/assets/screenshots/python-react.png?raw=true)
 
 ### HTML + Markdown
 
-![html+markdown](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/html-markdown.png?raw=true)
+![html+markdown](https://github.com/calebephrem/quantum-vscode/blob/main/assets/screenshots/html-markdown.png?raw=true)
 
 ### Terminal + Shell Script
 
-![terminal+shell](https://github.com/calebephrem/quantum/blob/main/assets/screenshots/terminal-shell.png?raw=true)
+![terminal+shell](https://github.com/calebephrem/quantum-vscode/blob/main/assets/screenshots/terminal-shell.png?raw=true)
 
-> If you like the zsh setup, give your terminal a futuristic glow-up with [Quantum Zsh Theme](https://github.com/calebephrem/quantum-zsh)
+> **If you like the zsh setup, give your terminal a futuristic glow-up with [Quantum Zsh Theme](https://github.com/calebephrem/quantum-vscode-zsh)**
 
 ---
 
@@ -232,11 +232,11 @@ Quantum theme is licensed under the MIT license.
 
 ### 🚀 Final Notes
 
-🧐 If you spot any funky colors or odd styling quirks—especially in languages or VS Code areas I haven’t tested—please don’t hesitate to [open an issue](https://github.com/calebephrem/quantum/issues). Quantum is still fresh, and your feedback helps it grow stronger!
+🧐 If you spot any funky colors or odd styling quirks—especially in languages or VS Code areas I haven’t tested—please don’t hesitate to [open an issue](https://github.com/calebephrem/quantum-vscode/issues). Quantum is still fresh, and your feedback helps it grow stronger!
 
 🌟 If you’re enjoying the theme, show some love with:
 
-- ⭐ Giving the [repo](https://github.com/calebephrem/quantum) a star
+- ⭐ Giving the [repo](https://github.com/calebephrem/quantum-vscode) a star
 - ✨ Rating it 5 stars on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=CalebEphrem.quantum)
 - 💬 Drop a review if you feel inspired!
 

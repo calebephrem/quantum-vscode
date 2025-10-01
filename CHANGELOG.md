@@ -1,5 +1,11 @@
 # Change Log
 
+## `v2.0.2`
+
+### 🛠️ Fixed
+
+- Changed repo links
+
 ## `v2.0.1`
 
 ### 🚀 Enhanced
