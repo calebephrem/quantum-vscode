@@ -1,5 +1,13 @@
 # Change Log
 
+## `v2.0.3`
+
+### 🚀 Enhanced
+
+- Add additional links:
+  - Quantum Zsh Theme
+  - Quantum Theme Website (homepage)
+
 ## `v2.0.2`
 
 ### 🛠️ Fixed

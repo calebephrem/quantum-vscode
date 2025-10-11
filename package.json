@@ -3,8 +3,9 @@
   "displayName": "Quantum Theme",
   "description": "✨ Beautify your workspace with the best combos of blue, lime, yellow, purple and cyan accents!",
   "icon": "assets/icon.png",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "publisher": "CalebEphrem",
+  "homepage": "https://quantumtheme.vercel.app",
   "author": {
     "name": "Caleb Ephrem",
     "email": "quantumpandaprog@gmail.com"

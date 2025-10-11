@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-## 🎨 The Theme
+## 🎨 Quantum VSCode Theme
 
 - 🌌 The Quantum theme family now spans three distinct vibes: Quantum, Quantum Dark, and Quantum Mirage. All embrace the elegance of dark mode, but each adds its own twist—
 
@@ -222,7 +222,7 @@ Want to make Quantum look even better? These are some hand-picked tweaks to elev
 
 ![terminal+shell](https://github.com/calebephrem/quantum-vscode/blob/main/assets/screenshots/terminal-shell.png?raw=true)
 
-> **If you like the zsh setup, give your terminal a futuristic glow-up with [Quantum Zsh Theme](https://github.com/calebephrem/quantum-vscode-zsh)**
+> **If you like the zsh setup, give your terminal a futuristic glow-up with [Quantum Zsh Theme](https://github.com/calebephrem/quantum-zsh)**
 
 ---
 
@@ -238,7 +238,9 @@ Quantum theme is licensed under the MIT license.
 
 - ⭐ Giving the [repo](https://github.com/calebephrem/quantum-vscode) a star
 - ✨ Rating it 5 stars on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=CalebEphrem.quantum)
-- 💬 Drop a review if you feel inspired!
+- 💬 Drop a [review](https://marketplace.visualstudio.com/items?itemName=CalebEphrem.quantum&ssr=false#review-details) if you feel inspired!
+
+Don't forget to try the **[Quantum Zsh Theme](https://github.com/calebephrem/quantum-zsh)** 🧮
 
 Thanks a ton for the support 😁
 
