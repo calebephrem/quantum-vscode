@@ -179,12 +179,12 @@
     "panelTitle.activeBorder": "#1972d2",
     "panelTitle.activeForeground": "#c5c5c5",
     "panelTitle.inactiveForeground": "#555555",
-    "statusBar.background": "#0d0d2a",
+    "statusBar.background": "#050527",
     "statusBar.foreground": "#aaaaaa",
     "statusBar.border": "#ffffff20",
-    "statusBar.debuggingBackground": "#0b0e14",
+    "statusBar.debuggingBackground": "#050527",
     "statusBar.debuggingForeground": "#aaaaaa",
-    "statusBar.noFolderBackground": "#0b0e14",
+    "statusBar.noFolderBackground": "#050527",
     "statusBarItem.activeBackground": "#565b6633",
     "statusBarItem.hoverBackground": "#565b6633",
     "statusBarItem.prominentBackground": "#1f2faf77",
@@ -718,9 +718,7 @@
     },
     {
       "name": "JavaScript async keyword",
-      "scope": [
-        "storage.modifier.async"
-      ],
+      "scope": ["storage.modifier.async"],
       "settings": {
         "fontStyle": "italic"
       }
