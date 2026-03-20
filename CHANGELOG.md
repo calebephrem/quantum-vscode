@@ -1,5 +1,11 @@
 # Change Log
 
+## `v2.0.4`
+
+### 🚀 Enhanced
+
+- Fix bg color mismatch on status bar on quantum dark variants
+
 ## `v2.0.3`
 
 ### 🚀 Enhanced
@@ -43,12 +49,10 @@
 ### 🚀 Enhanced
 
 - Updated README.md
-
   - Additional links
   - Add license section
 
 - Updated LICENSE
-
   - Show restrictions and permitted uses
 
 ## `v1.0.1`
